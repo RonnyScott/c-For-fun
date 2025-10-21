@@ -1,4 +1,4 @@
-This is a very basic text editor. Here are some ideas for extending its functionality:
+ This is a very basic text editor. Here are some ideas for extending its functionality:
 
 Allow editing specific lines in the file.
 Implement delete and search functionalities.
